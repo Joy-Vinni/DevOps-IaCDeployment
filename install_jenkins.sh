@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Install Updated packages on linux machine
+# Install updated packages on linux machine
 sudo yum update
 sudo wget -O /etc/yum.repos.d/jenkins.repo \
     https://pkg.jenkins.io/redhat-stable/jenkins.repo
