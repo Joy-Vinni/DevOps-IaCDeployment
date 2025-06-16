@@ -48,7 +48,7 @@ resource "aws_security_group" "jenkins_sg" {
   }
 
   tags = {
-    Name = "Jenkins SG"
+    Name = jJenkins SG"
   }
 }
 
